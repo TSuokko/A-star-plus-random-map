@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\tuomas\desktop\project1\project1\main.cpp(424): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\tuomas\desktop\project1\project1\main.cpp(516): warning C4717: 'PathfindStart': recursive on all control paths, function will cause runtime stack overflow
+  Project1.vcxproj -> C:\Users\Tuomas\Desktop\Project1\Debug\txtPathfinding.exe
+  Project1.vcxproj -> C:\Users\Tuomas\Desktop\Project1\Debug\txtPathfinding.pdb (Partial PDB)
